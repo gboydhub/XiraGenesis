@@ -1,0 +1,8 @@
+#ifndef _BUILDITEMIDS_H_
+#define _BUILDITEMIDS_H_
+
+#define BUILDITEM_BOOKSHELF		20
+#define BUILDITEM_TABLE			21
+#define BUILDITEM_CHAIR			22
+
+#endif

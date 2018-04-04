@@ -1,0 +1,61 @@
+﻿Build started 10/10/2013 10:40:15 PM.
+     1>Project "C:\MUDCraft\MUDCraft\MUDCraft.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp GameCommands.cpp GameItems.cpp GameMobs.cpp GameState.cpp Main.cpp ParticleTypes.cpp SS_UserCommands.cpp ServerState.cpp TitleState.cpp cButton.cpp cGfxEvent.cpp cMap.cpp cMob.cpp cObj.cpp cParticle.cpp cPlayer.cpp
+         Game.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+     1>Game.cpp(28): warning C4018: '>' : signed/unsigned mismatch
+     1>Game.cpp(138): warning C4018: '>' : signed/unsigned mismatch
+     1>Game.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+     1>Game.cpp(212): warning C4018: '>' : signed/unsigned mismatch
+     1>Game.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>Game.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+         GameCommands.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         GameItems.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         GameMobs.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         GameState.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+     1>GameState.cpp(74): warning C4309: 'initializing' : truncation of constant value
+     1>GameState.cpp(79): warning C4309: 'initializing' : truncation of constant value
+     1>GameState.cpp(87): warning C4309: 'initializing' : truncation of constant value
+     1>GameState.cpp(92): warning C4309: 'initializing' : truncation of constant value
+     1>GameState.cpp(100): warning C4309: 'initializing' : truncation of constant value
+     1>GameState.cpp(105): warning C4309: 'initializing' : truncation of constant value
+     1>GameState.cpp(113): warning C4309: 'initializing' : truncation of constant value
+     1>GameState.cpp(118): warning C4309: 'initializing' : truncation of constant value
+         Main.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         ParticleTypes.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         SS_UserCommands.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+     1>SS_UserCommands.cpp(286): warning C4018: '<' : signed/unsigned mismatch
+         ServerState.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+     1>ServerState.cpp(727): warning C4018: '>=' : signed/unsigned mismatch
+     1>ServerState.cpp(769): warning C4018: '>=' : signed/unsigned mismatch
+     1>ServerState.cpp(810): warning C4018: '>=' : signed/unsigned mismatch
+     1>ServerState.cpp(852): warning C4018: '>=' : signed/unsigned mismatch
+     1>ServerState.cpp(1393): warning C4018: '<' : signed/unsigned mismatch
+         TitleState.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         cButton.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         cGfxEvent.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         cMap.cpp
+     1>c:\mudcraft\mudcraft\ParticleTypes.h(17): error C2661: 'cParticle::cParticle' : no overloaded function takes 11 arguments
+         cMob.cpp
+     1>cMob.cpp(28): warning C4060: switch statement contains no 'case' or 'default' labels
+         cObj.cpp
+         cParticle.cpp
+         cPlayer.cpp
+     1>cPlayer.cpp(165): warning C4018: '<' : signed/unsigned mismatch
+     1>Done Building Project "C:\MUDCraft\MUDCraft\MUDCraft.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:56.21

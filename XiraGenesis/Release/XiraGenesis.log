@@ -1,0 +1,45 @@
+﻿Build started 5/10/2014 8:33:19 PM.
+     1>Project "C:\XiraGenesis\XiraGenesis\XiraGenesis.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cButton.cpp cGfxEvent.cpp cMap.cpp cMob.cpp cObj.cpp cParticle.cpp cPlayer.cpp cSprite.cpp Game.cpp GameCommands.cpp GameItems.cpp GameMobs.cpp Main.cpp GameState.cpp ParticleTypes.cpp ServerState.cpp SS_UserCommands.cpp TitleState.cpp
+         cButton.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         cGfxEvent.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         cMap.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         cMob.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         cObj.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         cParticle.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         cPlayer.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         cSprite.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         Game.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         GameCommands.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         GameItems.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         GameMobs.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         Main.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         GameState.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         ParticleTypes.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         ServerState.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         SS_UserCommands.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+         TitleState.cpp
+     1>c:\xiragenesis\xiragenesis\Game.h(6): fatal error C1083: Cannot open include file: 'physfs.h': No such file or directory
+     1>Done Building Project "C:\XiraGenesis\XiraGenesis\XiraGenesis.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:21.36

@@ -1,0 +1,32 @@
+
+	  ---- Monk ----------- Sacred Fist ---- Shadow Walker
+         /      \              
+        /        > Healer ----- Tempest
+       /        /
+Novice|------- Magician ------- Spellcaster ---- Wizard
+       \        \
+        \        > Flamesword - Wrathbringer
+         \      /
+          ---- Soldier -------- Duelist -------- Warmaster
+
+
+	  ---- Magician ------- Spellcaster ----- Wizard
+         /      \              
+        /        > Healer ----- Tempest
+       /        /
+Novice|------- Monk ----------- Sacred Fist ----- Shadow walker
+       \        \
+        \        > Rogue  ----- Assassin
+         \      /
+          ---- Soldier -------- Duelist -------- Warmaster
+
+
+	  ---- Magician 
+         /              \
+        /                \
+       /                  \
+Novice|------- Monk ------ > - SongSword
+       \                  /
+        \                /
+         \              /
+          ---- Soldier 

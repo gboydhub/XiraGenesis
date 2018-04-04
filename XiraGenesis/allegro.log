@@ -1,0 +1,9 @@
+system   D            wsystem.c:583  maybe_parent_dir                 [   0.00168] Also searching C:\XiraGenesis\
+system   D            wsystem.c:633  _al_win_safe_load_library        [   0.00257] PathFindOnPath found: C:\WINDOWS\system32\d3d9.dll
+system   D            wsystem.c:544  load_library_at_path             [   0.00265] Calling LoadLibrary C:\WINDOWS\system32\d3d9.dll
+system   I            wsystem.c:547  load_library_at_path             [   0.02490] Loaded C:\WINDOWS\system32\d3d9.dll
+d3d      I         d3d_disp.cpp:696  _al_d3d_init_display             [   0.23212] Render-to-texture: 1
+system   I             system.c:252  al_install_system                [   0.23227] Allegro version: 5.0.10
+dtor     D               dtor.c:184  _al_register_destructor          [   0.58003] added dtor for object 00D2F710, func 002E208A
+dtor     D               dtor.c:184  _al_register_destructor          [   0.58065] added dtor for object 00D305E8, func 002E208A
+dtor     D               dtor.c:184  _al_register_destructor          [   0.58080] added dtor for object 00D48F48, func 002DE45D

@@ -1,0 +1,33 @@
+Novice: 	Lv 1 - Attack, Equip Light Armor, Daggers
+Novice:		Lv 3 - Use Item
+Novice: 	Lv 5 (Cap) - Quaff Potion/Drink
+
+Magician: 	Lv 1 - Cast, Equip Staff, Wand, (SP)Magic Missile
+Magician:	Lv 3 - (SP)Fireball
+Magician:	Lv 4 - (SP)Ice Arrow
+Magician:	Lv 5 - (SP)Lightning Ball
+Magician:	Lv 8 - (SP)Poison
+Magician:	Lv 10 (Cap) - (SP)Flash (Blinding)
+
+Soldier:	Lv 1 - Defend, Equip Medium Armor, Short Swords, Shields
+Soldier:	Lv 3 - Equip Heavy Armor
+Soldier:	Lv 5 - Focus
+Soldier:	Lv 8 - Equip Long Swords
+Soldier:	Lv 10 (Cap) - Protect Other
+
+Monk:		Lv 1 - Meditate
+Monk:		Lv 3 - Iron Fist
+Monk:		Lv 5 - Quicken
+Monk:		Lv 8 - Dual Hit
+Monk:		Lv 10 - (Cap) Kick
+
+Healer:		Lv 1 - Heal
+Healer:		Lv 5 - Shell
+Healer:		Lv 10 - Heal All
+Healer:		Lv 12 - Boost
+Healer:		Lv 15 - Mega Heal
+Healer:		Lv 18 - Boost All
+Healer:		Lv 20 (Cap) - Mega Heal All
+
+Flamesword:	Lv 1 - Fireslash
+Flamesword:	Lv 5 - 
